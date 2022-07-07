@@ -21,7 +21,7 @@
     "@types/table": "^4.0.5",
     "dotenv": "^6.2.0",
     "inquirer": "^6.2.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mysql": "^2.16.0",
     "table": "^5.2.3"
   }
